@@ -1,0 +1,10 @@
+model selection
+how to define the training set and valiadation set, and test set(seperate)?
+only run test set one time to evaluate the optimal model you find.
+seperate them appropriately.
+
+reduce the hypothesis space--evidence that shows that overfitting issue exists.
+
+how to transform data to numerical form.
+
+try logistic regression in sklearn to compare the performance
